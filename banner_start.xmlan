@@ -1,0 +1,256 @@
+<?xml version="1.0"?>
+		<xmlan version="1.9.9BETA" framesize="175" flags="01">
+			<pane name="TitlePane" type="0">
+				<tag type="RLPA">
+					<entry type1="0" type2="Y Translation">
+						<triplet>
+							<frame>0.000000000000000</frame>
+							<value>100.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+						<triplet>
+							<frame>40.000000000000000</frame>
+							<value>0.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+					</entry>
+				</tag>
+			</pane>
+			<pane name="HddMat" type="0">
+				<tag type="RLVC">
+					<entry type1="0" type2="16">
+						<triplet>
+							<frame>10.000000000000000</frame>
+							<value>0.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+						<triplet>
+							<frame>30.000000000000000</frame>
+							<value>255.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+					</entry>
+				</tag>
+				<tag type="RLPA">
+					<entry type1="0" type2="Y Translation">
+						<triplet>
+							<frame>0.000000000000000</frame>
+							<value>17.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+						<triplet>
+							<frame>30.000000000000000</frame>
+							<value>-6.000000000000000</value>
+							<blend>-0.585835218429565</blend>
+						</triplet>
+						<triplet>
+							<frame>50.000000000000000</frame>
+							<value>-10.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+						<triplet>
+							<frame>175.000000000000000</frame>
+							<value>0.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+					</entry>
+				</tag>
+			</pane>
+			<pane name="SdMat" type="0">
+				<tag type="RLVC">
+					<entry type1="0" type2="16">
+						<triplet>
+							<frame>10.000000000000000</frame>
+							<value>0.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+						<triplet>
+							<frame>30.000000000000000</frame>
+							<value>255.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+					</entry>
+				</tag>
+				<tag type="RLPA">
+					<entry type1="0" type2="Y Translation">
+						<triplet>
+							<frame>0.000000000000000</frame>
+							<value>17.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+						<triplet>
+							<frame>30.000000000000000</frame>
+							<value>-6.000000000000000</value>
+							<blend>-0.585835218429565</blend>
+						</triplet>
+						<triplet>
+							<frame>50.000000000000000</frame>
+							<value>-10.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+						<triplet>
+							<frame>175.000000000000000</frame>
+							<value>0.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+					</entry>
+				</tag>
+			</pane>
+			<pane name="HddShadowMat" type="0">
+				<tag type="RLVC">
+					<entry type1="0" type2="16">
+						<triplet>
+							<frame>10.000000000000000</frame>
+							<value>0.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+						<triplet>
+							<frame>30.000000000000000</frame>
+							<value>255.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+					</entry>
+				</tag>
+			</pane>
+			<pane name="SdShadowMat" type="0">
+				<tag type="RLVC">
+					<entry type1="0" type2="16">
+						<triplet>
+							<frame>10.000000000000000</frame>
+							<value>0.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+						<triplet>
+							<frame>30.000000000000000</frame>
+							<value>255.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+					</entry>
+				</tag>
+			</pane>
+			<pane name="HddMirrorMat" type="0">
+				<tag type="RLVC">
+					<entry type1="0" type2="16">
+						<triplet>
+							<frame>10.000000000000000</frame>
+							<value>0.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+						<triplet>
+							<frame>100.000000000000000</frame>
+							<value>200.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+					</entry>
+				</tag>
+				<tag type="RLPA">
+					<entry type1="0" type2="Y Translation">
+						<triplet>
+							<frame>0.000000000000000</frame>
+							<value>-200.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+						<triplet>
+							<frame>10.000000000000000</frame>
+							<value>-220.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+						<triplet>
+							<frame>30.000000000000000</frame>
+							<value>-197.000000000000000</value>
+							<blend>0.585835218429565</blend>
+						</triplet>
+						<triplet>
+							<frame>50.000000000000000</frame>
+							<value>-193.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+						<triplet>
+							<frame>175.000000000000000</frame>
+							<value>-200.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+					</entry>
+				</tag>
+			</pane>
+			<pane name="SdMirrorMat" type="0">
+				<tag type="RLVC">
+					<entry type1="0" type2="16">
+						<triplet>
+							<frame>10.000000000000000</frame>
+							<value>0.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+						<triplet>
+							<frame>30.000000000000000</frame>
+							<value>200.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+					</entry>
+				</tag>
+				<tag type="RLPA">
+					<entry type1="0" type2="Y Translation">
+						<triplet>
+							<frame>0.000000000000000</frame>
+							<value>-200.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+						<triplet>
+							<frame>10.000000000000000</frame>
+							<value>-220.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+						<triplet>
+							<frame>30.000000000000000</frame>
+							<value>-197.000000000000000</value>
+							<blend>0.585835218429565</blend>
+						</triplet>
+						<triplet>
+							<frame>50.000000000000000</frame>
+							<value>-193.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+						<triplet>
+							<frame>175.000000000000000</frame>
+							<value>-200.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+					</entry>
+				</tag>
+			</pane>
+			<pane name="MainText" type="0">
+				<tag type="RLPA">
+					<entry type1="0" type2="Y Translation">
+						<triplet>
+							<frame>10.000000000000000</frame>
+							<value>-35.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+						<triplet>
+							<frame>40.000000000000000</frame>
+							<value>-47.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+						<triplet>
+							<frame>110.000000000000000</frame>
+							<value>-43.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+					</entry>
+				</tag>
+				<tag type="RLVC">
+					<entry type1="0" type2="16">
+						<triplet>
+							<frame>10.000000000000000</frame>
+							<value>0.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+						<triplet>
+							<frame>40.000000000000000</frame>
+							<value>255.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+					</entry>
+				</tag>
+			</pane>
+		</xmlan>

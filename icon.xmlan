@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+		<xmlan version="1.9.9BETA" framesize="600" flags="01">
+			<pane name="IconWFLPic" type="0">
+				<tag type="RLPA">
+					<entry type1="0" type2="Y Translation">
+						<triplet>
+							<frame>0.000000000000000</frame>
+							<value>-9.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+						<triplet>
+							<frame>150.000000000000000</frame>
+							<value>6.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+						<triplet>
+							<frame>300.000000000000000</frame>
+							<value>-9.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+						<triplet>
+							<frame>450.000000000000000</frame>
+							<value>6.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+						<triplet>
+							<frame>600.000000000000000</frame>
+							<value>-9.000000000000000</value>
+							<blend>0.000000000000000</blend>
+						</triplet>
+					</entry>
+				</tag>
+			</pane>
+		</xmlan>
